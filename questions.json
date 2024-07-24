@@ -1,0 +1,122 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "The Freytag’s Pyramid maps various stages of the point of view of a story.",
+    "options": ["True", "False"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Conflict can be",
+    "options": ["Character versus nature", "Character versus society", "Character versus character", "All of the above"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "What follows the Climax?",
+    "options": ["Denouement", "Resolution", "Falling action", "Conflict"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "The exposition begins the story by revealing the:",
+    "options": ["Character(s)", "Setting and background", "Either directly or indirectly hints at what is coming.", "All of the above"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Which phase of the plot includes the conflict?",
+    "options": ["Falling action", "Resolution", "Climax", "Rising action"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "………………………………… presents the ultimate outcome of the story's events.",
+    "options": ["Resolution", "Denouement", "Conclusion", "All of the above"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Static characters go through massive change.",
+    "options": ["True", "False"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "…………………………………… another major character who functions as an opposing force, almost always a negative one against the central character.",
+    "options": ["Major character", "Minor character", "Antagonist", "Protagonist"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "…………………………………… is a kind of narration in which readers only experience a character’s thoughts and reactions.",
+    "options": ["Third person point of view", "Limited", "Omniscient", "Stream of Consciousness"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "The angle from which the story is told decides the …………………………………..",
+    "options": ["Perspective", "Thoughts", "Point of view", "None of the above"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Do pronouns determine the kind of point of view used in a story?",
+    "options": ["Yes", "No"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Probably the easiest POV for a beginning writer to use. It funnels all action through the eyes of a single character; readers only see what the narrator sees.",
+    "options": ["First person", "Second Person", "Limited", "Omniscient"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Soapy is a ………………………………… character.",
+    "options": ["Flat", "Round", "Dynamic", "Static"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Which is the POV utilized in The Cop and the Anthem ?",
+    "options": ["Innocent Eye", "Third person", "Omniscient", "Both B and C"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Mood or atmosphere is an important aspect that must be considered while studying the setting of the story.",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Figures of speech are used to highlight the theme of a story.",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Do social conditions contribute to the setting of the story?",
+    "options": ["Yes", "No"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Typically, ………………… includes just one plot, making it easy to read in one sitting.",
+    "options": ["A short play", "A short novel", "A short story", "Just a story"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Gustav Freytag was:",
+    "options": ["A 19th century German novelist", "A 19th century German critic", "A 19th century German lecturer", "All of the above"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "…………………………… are the themes explored in O. Henry’s The Cop and the Anthem?",
+    "options": ["Helplessness", "Poverty", "Survival", "Both B and C"],
+    "correct": 3
+  }
+]
